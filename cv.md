@@ -20,7 +20,6 @@ Hard-working, creative and proactive person. Ambitious, eager to keep growing an
 - JavaScript Basics
 - Git, GitHub
 - Data mining
-- ASO tools
 - Targeting
 - Analytical Skills
 
