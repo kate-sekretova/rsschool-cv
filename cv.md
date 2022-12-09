@@ -19,9 +19,9 @@ Hard-working, creative and proactive person. Ambitious, eager to keep growing an
 - HTML5, CSS3
 - JavaScript Basics
 - Git, GitHub
-- Data mining
 - Targeting
-- Analytical Skills
+- Data mining
+- ASO tools
 
 ## Code example:
 ``` 
